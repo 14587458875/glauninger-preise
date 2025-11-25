@@ -1,0 +1,1 @@
+Preisserver vollständig generiert.

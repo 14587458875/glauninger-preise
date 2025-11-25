@@ -1,0 +1,380 @@
+{
+  "ford": {
+    "label": "Ford",
+    "typen": {
+      "custom_2023": {
+        "label": "Custom (2023)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3100,
+          "L2": 3500
+        }
+      },
+      "courier_2023": {
+        "label": "Courier (2023)",
+        "laengen": [
+          "L1"
+        ],
+        "radstand": {
+          "L1": 2690
+        }
+      },
+      "connect_2022": {
+        "label": "Connect (2022)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2755,
+          "L2": 2970
+        }
+      }
+    }
+  },
+  "volkswagen": {
+    "label": "Volkswagen",
+    "typen": {
+      "new_transporter_2025": {
+        "label": "New Transporter (2025)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3100,
+          "L2": 3500
+        }
+      },
+      "caddy_2020": {
+        "label": "Caddy (2020)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2755,
+          "L2": 2970
+        }
+      }
+    }
+  },
+  "renault": {
+    "label": "Renault",
+    "typen": {
+      "trafic_2014": {
+        "label": "Trafic (2014)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3098,
+          "L2": 3498
+        }
+      },
+      "kangoo_2021": {
+        "label": "Kangoo (2021)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2716,
+          "L2": 3100
+        }
+      }
+    }
+  },
+  "peugeot": {
+    "label": "Peugeot",
+    "typen": {
+      "expert_2016": {
+        "label": "Expert (2016)",
+        "laengen": [
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "radstand": {
+          "L1": 2925,
+          "L2": 3275,
+          "L3": "3275L"
+        }
+      },
+      "partner_2018": {
+        "label": "Partner (2018)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2785,
+          "L2": 2975
+        }
+      },
+      "boxer_2006": {
+        "label": "Boxer (2006)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3000,
+          "L2": 3450
+        }
+      }
+    }
+  },
+  "fiat": {
+    "label": "Fiat",
+    "typen": {
+      "scudo_2022": {
+        "label": "Scudo (2022)",
+        "laengen": [
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "radstand": {
+          "L1": 2925,
+          "L2": 3275,
+          "L3": "3275L"
+        }
+      },
+      "ducato_2006": {
+        "label": "Ducato (2006)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3000,
+          "L2": 3450
+        }
+      },
+      "doblo_2022": {
+        "label": "Doblo (2022)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2785,
+          "L2": 2975
+        }
+      },
+      "talento_2016_2021": {
+        "label": "Talento (2016-2021)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3098,
+          "L2": 3498
+        }
+      }
+    }
+  },
+  "opel": {
+    "label": "Opel",
+    "typen": {
+      "vivaro_2019": {
+        "label": "Vivaro (2019)",
+        "laengen": [
+          "L2",
+          "L3"
+        ],
+        "radstand": {
+          "L1": 2925,
+          "L2": 3275,
+          "L3": "3275L"
+        }
+      },
+      "combo_2018": {
+        "label": "Combo (2018)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2785,
+          "L2": 2975
+        }
+      },
+      "vivaro_2014": {
+        "label": "Vivaro (2014)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3098,
+          "L2": 3498
+        }
+      },
+      "movano_2021": {
+        "label": "Movano (2021)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3000,
+          "L2": 3450
+        }
+      }
+    }
+  },
+  "nissan": {
+    "label": "Nissan",
+    "typen": {
+      "primastar_2021": {
+        "label": "Primastar (2021)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3098,
+          "L2": 3498
+        }
+      },
+      "townstar_2022": {
+        "label": "Townstar (2022)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2716,
+          "L2": 3100
+        }
+      }
+    }
+  },
+  "citroen": {
+    "label": "Citroen",
+    "typen": {
+      "jumpy_2016": {
+        "label": "Jumpy (2016)",
+        "laengen": [
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "radstand": {
+          "L1": 2925,
+          "L2": 3275,
+          "L3": "3275L"
+        }
+      },
+      "jumper_2006": {
+        "label": "Jumper (2006)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3000,
+          "L2": 3450
+        }
+      },
+      "berlingo_2018": {
+        "label": "Berlingo (2018)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2785,
+          "L2": 2975
+        }
+      }
+    }
+  },
+  "toyota": {
+    "label": "Toyota",
+    "typen": {
+      "proace_2016": {
+        "label": "ProAce (2016)",
+        "laengen": [
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "radstand": {
+          "L1": 2925,
+          "L2": 3275,
+          "L3": "3275L"
+        }
+      },
+      "proace_max_2024": {
+        "label": "ProAce Max (2024)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3000,
+          "L2": 3450
+        }
+      },
+      "proace_city_2020": {
+        "label": "ProAce City (2020)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2785,
+          "L2": 2975
+        }
+      }
+    }
+  },
+  "mercedes_benz": {
+    "label": "Mercedes-Benz",
+    "typen": {
+      "citan_2021": {
+        "label": "Citan (2021)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 2716,
+          "L2": 3100
+        }
+      },
+      "vito_2014": {
+        "label": "Vito (2014)",
+        "laengen": [
+          "L1",
+          "L2",
+          "L3"
+        ],
+        "radstand": {
+          "L1": 3200,
+          "L2": "3200L",
+          "L3": 3430
+        }
+      },
+      "new_sprinter_2018": {
+        "label": "New Sprinter (2018)",
+        "laengen": [
+          "L1",
+          "L2"
+        ],
+        "radstand": {
+          "L1": 3259,
+          "L2": 3924
+        }
+      }
+    }
+  }
+}
