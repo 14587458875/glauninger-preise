@@ -1025,16 +1025,16 @@
     "laenge": "L1",
     "hoehe": "H1",
     "radstand": 3259,
-    "preisRegalLinks": 1950,
-    "preisRegalRechts": 985,
+    "preisRegalLinks": 1925,
+    "preisRegalRechts": 1010,
     "preisRegalBeidseitig": 2935,
     "preisLadeboden": 480,
     "preisInnenwandverkleidung": 580,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 360,
+    "preisMontageRegalRechts": 280,
+    "preisMontageRegalBeidseitig": 640,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "mercedes_benz",
@@ -1042,15 +1042,15 @@
     "laenge": "L2",
     "hoehe": "H1",
     "radstand": 3924,
-    "preisRegalLinks": 1950,
-    "preisRegalRechts": 1200,
-    "preisRegalBeidseitig": 3150,
+    "preisRegalLinks": 1935,
+    "preisRegalRechts": 1310,
+    "preisRegalBeidseitig": 3245,
     "preisLadeboden": 510,
     "preisInnenwandverkleidung": 610,
-    "preisMontageRegalLinks": 150,
-    "preisMontageRegalRechts": 150,
-    "preisMontageRegalBeidseitig": 240,
-    "preisMontageLadeboden": 150,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageRegalLinks": 360,
+    "preisMontageRegalRechts": 280,
+    "preisMontageRegalBeidseitig": 640,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   }
 ]
