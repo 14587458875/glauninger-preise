@@ -10,11 +10,11 @@
     "preisRegalBeidseitig": 2522,
     "preisLadeboden": 350,
     "preisInnenwandverkleidung": 310,
-    "preisMontageRegalLinks": 356,
+    "preisMontageRegalLinks": 256,
     "preisMontageRegalRechts": 160,
-    "preisMontageRegalBeidseitig": 516,
+    "preisMontageRegalBeidseitig": 416,
     "preisMontageLadeboden": 204,
-    "preisMontageInnenwandverkleidung": 204
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "ford",
@@ -27,11 +27,11 @@
     "preisRegalBeidseitig": 2838,
     "preisLadeboden": 420,
     "preisInnenwandverkleidung": 335,
-    "preisMontageRegalLinks": 368,
+    "preisMontageRegalLinks": 268,
     "preisMontageRegalRechts": 180,
-    "preisMontageRegalBeidseitig": 548,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalBeidseitig": 448,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "ford",
@@ -61,11 +61,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 320,
     "preisInnenwandverkleidung": 250,
-    "preisMontageRegalLinks": 115,
-    "preisMontageRegalRechts": 115,
-    "preisMontageRegalBeidseitig": 195,
-    "preisMontageLadeboden": 115,
-    "preisMontageInnenwandverkleidung": 215
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "ford",
@@ -73,16 +73,16 @@
     "laenge": "L2",
     "hoehe": "H1",
     "radstand": 2970,
-    "preisRegalLinks": 1504.50,
+    "preisRegalLinks": 1504,
     "preisRegalRechts": 0,
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 440,
     "preisInnenwandverkleidung": 270,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "volkswagen",
@@ -95,11 +95,11 @@
     "preisRegalBeidseitig": 2522,
     "preisLadeboden": 460,
     "preisInnenwandverkleidung": 560,
-    "preisMontageRegalLinks": 125,
-    "preisMontageRegalRechts": 125,
-    "preisMontageRegalBeidseitig": 210,
-    "preisMontageLadeboden": 125,
-    "preisMontageInnenwandverkleidung": 225
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "volkswagen",
@@ -112,11 +112,11 @@
     "preisRegalBeidseitig": 2838,
     "preisLadeboden": 490,
     "preisInnenwandverkleidung": 590,
-    "preisMontageRegalLinks": 145,
-    "preisMontageRegalRechts": 145,
-    "preisMontageRegalBeidseitig": 235,
-    "preisMontageLadeboden": 145,
-    "preisMontageInnenwandverkleidung": 245
+    "preisMontageRegalLinks": 268,
+    "preisMontageRegalRechts": 180,
+    "preisMontageRegalBeidseitig": 448,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "volkswagen",
@@ -124,16 +124,16 @@
     "laenge": "L1",
     "hoehe": "H1",
     "radstand": 2755,
-    "preisRegalLinks": 1650,
-    "preisRegalRechts": 950,
-    "preisRegalBeidseitig": 2600,
+    "preisRegalLinks": 1430,
+    "preisRegalRechts": 0,
+    "preisRegalBeidseitig": 0,
     "preisLadeboden": 320,
     "preisInnenwandverkleidung": 250,
-    "preisMontageRegalLinks": 115,
-    "preisMontageRegalRechts": 115,
-    "preisMontageRegalBeidseitig": 195,
-    "preisMontageLadeboden": 115,
-    "preisMontageInnenwandverkleidung": 215
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "volkswagen",
@@ -141,16 +141,16 @@
     "laenge": "L2",
     "hoehe": "H1",
     "radstand": 2970,
-    "preisRegalLinks": 1430,
+    "preisRegalLinks": 1504,
     "preisRegalRechts": 0,
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 340,
     "preisInnenwandverkleidung": 270,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "renault",
@@ -163,11 +163,11 @@
     "preisRegalBeidseitig": 2455,
     "preisLadeboden": 350,
     "preisInnenwandverkleidung": 300,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 245,
+    "preisMontageRegalRechts": 150,
+    "preisMontageRegalBeidseitig": 395,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "renault",
@@ -180,11 +180,11 @@
     "preisRegalBeidseitig": 2838,
     "preisLadeboden": 400,
     "preisInnenwandverkleidung": 340,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 267,
+    "preisMontageRegalRechts": 180,
+    "preisMontageRegalBeidseitig": 447,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "renault",
@@ -197,11 +197,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 320,
     "preisInnenwandverkleidung": 240,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "renault",
@@ -214,11 +214,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 350,
     "preisInnenwandverkleidung": 260,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "peugeot",
@@ -231,11 +231,11 @@
     "preisRegalBeidseitig": 2489,
     "preisLadeboden": 335,
     "preisInnenwandverkleidung": 290,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "peugeot",
@@ -248,11 +248,11 @@
     "preisRegalBeidseitig": 2790,
     "preisLadeboden": 360,
     "preisInnenwandverkleidung": 310,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "peugeot",
@@ -265,11 +265,11 @@
     "preisRegalBeidseitig": 3029,
     "preisLadeboden": 390,
     "preisInnenwandverkleidung": 330,
-    "preisMontageRegalLinks": 150,
-    "preisMontageRegalRechts": 150,
-    "preisMontageRegalBeidseitig": 240,
-    "preisMontageLadeboden": 150,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageRegalLinks": 289,
+    "preisMontageRegalRechts": 200,
+    "preisMontageRegalBeidseitig": 489,
+    "preisMontageLadeboden": 230,
+    "preisMontageInnenwandverkleidung": 270
   },
   {
     "hersteller": "peugeot",
@@ -282,11 +282,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 270,
     "preisInnenwandverkleidung": 180,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "peugeot",
@@ -299,11 +299,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 300,
     "preisInnenwandverkleidung": 190,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "peugeot",
@@ -316,11 +316,11 @@
     "preisRegalBeidseitig": 2955,
     "preisLadeboden": 410,
     "preisInnenwandverkleidung": 350,
-    "preisMontageRegalLinks": 125,
-    "preisMontageRegalRechts": 125,
-    "preisMontageRegalBeidseitig": 210,
-    "preisMontageLadeboden": 125,
-    "preisMontageInnenwandverkleidung": 225
+    "preisMontageRegalLinks": 260,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 510,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "peugeot",
@@ -333,11 +333,11 @@
     "preisRegalBeidseitig": 3143,
     "preisLadeboden": 450,
     "preisInnenwandverkleidung": 380,
-    "preisMontageRegalLinks": 145,
-    "preisMontageRegalRechts": 145,
-    "preisMontageRegalBeidseitig": 235,
-    "preisMontageLadeboden": 145,
-    "preisMontageInnenwandverkleidung": 245
+    "preisMontageRegalLinks": 270,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 520,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "fiat",
@@ -350,11 +350,11 @@
     "preisRegalBeidseitig": 2489,
     "preisLadeboden": 330,
     "preisInnenwandverkleidung": 290,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "fiat",
@@ -367,11 +367,11 @@
     "preisRegalBeidseitig": 2790,
     "preisLadeboden": 360,
     "preisInnenwandverkleidung": 310,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "fiat",
@@ -384,11 +384,11 @@
     "preisRegalBeidseitig": 3029,
     "preisLadeboden": 400,
     "preisInnenwandverkleidung": 330,
-    "preisMontageRegalLinks": 150,
-    "preisMontageRegalRechts": 150,
-    "preisMontageRegalBeidseitig": 240,
-    "preisMontageLadeboden": 150,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageRegalLinks": 289,
+    "preisMontageRegalRechts": 200,
+    "preisMontageRegalBeidseitig": 489,
+    "preisMontageLadeboden": 230,
+    "preisMontageInnenwandverkleidung": 270
   },
   {
     "hersteller": "fiat",
@@ -401,11 +401,11 @@
     "preisRegalBeidseitig": 2955,
     "preisLadeboden": 410,
     "preisInnenwandverkleidung": 350,
-    "preisMontageRegalLinks": 125,
-    "preisMontageRegalRechts": 125,
-    "preisMontageRegalBeidseitig": 210,
-    "preisMontageLadeboden": 125,
-    "preisMontageInnenwandverkleidung": 225
+    "preisMontageRegalLinks": 260,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 510,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "fiat",
@@ -418,11 +418,11 @@
     "preisRegalBeidseitig": 3143,
     "preisLadeboden": 450,
     "preisInnenwandverkleidung": 380,
-    "preisMontageRegalLinks": 145,
-    "preisMontageRegalRechts": 145,
-    "preisMontageRegalBeidseitig": 235,
-    "preisMontageLadeboden": 145,
-    "preisMontageInnenwandverkleidung": 245
+    "preisMontageRegalLinks": 270,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 520,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "fiat",
@@ -435,11 +435,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 270,
     "preisInnenwandverkleidung": 170,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "fiat",
@@ -452,11 +452,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 320,
     "preisInnenwandverkleidung": 180,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "fiat",
@@ -469,11 +469,11 @@
     "preisRegalBeidseitig": 2455,
     "preisLadeboden": 350,
     "preisInnenwandverkleidung": 300,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 245,
+    "preisMontageRegalRechts": 150,
+    "preisMontageRegalBeidseitig": 395,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "fiat",
@@ -486,11 +486,11 @@
     "preisRegalBeidseitig": 2838,
     "preisLadeboden": 400,
     "preisInnenwandverkleidung": 340,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 267,
+    "preisMontageRegalRechts": 180,
+    "preisMontageRegalBeidseitig": 447,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "opel",
@@ -503,11 +503,11 @@
     "preisRegalBeidseitig": 2790,
     "preisLadeboden": 360,
     "preisInnenwandverkleidung": 310,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "opel",
@@ -520,11 +520,11 @@
     "preisRegalBeidseitig": 3029,
     "preisLadeboden": 400,
     "preisInnenwandverkleidung": 330,
-    "preisMontageRegalLinks": 150,
-    "preisMontageRegalRechts": 150,
-    "preisMontageRegalBeidseitig": 240,
-    "preisMontageLadeboden": 150,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageRegalLinks": 289,
+    "preisMontageRegalRechts": 200,
+    "preisMontageRegalBeidseitig": 489,
+    "preisMontageLadeboden": 230,
+    "preisMontageInnenwandverkleidung": 270
   },
   {
     "hersteller": "opel",
@@ -537,11 +537,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 270,
     "preisInnenwandverkleidung": 180,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "opel",
@@ -554,11 +554,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 300,
     "preisInnenwandverkleidung": 310,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "opel",
@@ -571,9 +571,9 @@
     "preisRegalBeidseitig": 2455,
     "preisLadeboden": 380,
     "preisInnenwandverkleidung": 300,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
+    "preisMontageRegalLinks": 245,
+    "preisMontageRegalRechts": 150,
+    "preisMontageRegalBeidseitig": 395,
     "preisMontageLadeboden": 120,
     "preisMontageInnenwandverkleidung": 220
   },
@@ -588,11 +588,11 @@
     "preisRegalBeidseitig": 2838,
     "preisLadeboden": 400,
     "preisInnenwandverkleidung": 340,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 267,
+    "preisMontageRegalRechts": 180,
+    "preisMontageRegalBeidseitig": 447,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "opel",
@@ -605,11 +605,11 @@
     "preisRegalBeidseitig": 2955,
     "preisLadeboden": 410,
     "preisInnenwandverkleidung": 560,
-    "preisMontageRegalLinks": 125,
-    "preisMontageRegalRechts": 125,
-    "preisMontageRegalBeidseitig": 210,
-    "preisMontageLadeboden": 125,
-    "preisMontageInnenwandverkleidung": 225
+    "preisMontageRegalLinks": 260,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 510,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "opel",
@@ -622,11 +622,11 @@
     "preisRegalBeidseitig": 3143,
     "preisLadeboden": 450,
     "preisInnenwandverkleidung": 590,
-    "preisMontageRegalLinks": 145,
-    "preisMontageRegalRechts": 145,
-    "preisMontageRegalBeidseitig": 235,
-    "preisMontageLadeboden": 145,
-    "preisMontageInnenwandverkleidung": 245
+    "preisMontageRegalLinks": 270,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 520,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "nissan",
@@ -639,11 +639,11 @@
     "preisRegalBeidseitig": 2455,
     "preisLadeboden": 330,
     "preisInnenwandverkleidung": 550,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 245,
+    "preisMontageRegalRechts": 150,
+    "preisMontageRegalBeidseitig": 395,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "nissan",
@@ -656,11 +656,11 @@
     "preisRegalBeidseitig": 2838,
     "preisLadeboden": 360,
     "preisInnenwandverkleidung": 580,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 267,
+    "preisMontageRegalRechts": 180,
+    "preisMontageRegalBeidseitig": 447,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "nissan",
@@ -673,11 +673,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 320,
     "preisInnenwandverkleidung": 520,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "nissan",
@@ -690,11 +690,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 440,
     "preisInnenwandverkleidung": 540,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "citroen",
@@ -707,11 +707,11 @@
     "preisRegalBeidseitig": 2489,
     "preisLadeboden": 450,
     "preisInnenwandverkleidung": 550,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "citroen",
@@ -724,11 +724,11 @@
     "preisRegalBeidseitig": 2790,
     "preisLadeboden": 480,
     "preisInnenwandverkleidung": 580,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 356,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "citroen",
@@ -741,11 +741,11 @@
     "preisRegalBeidseitig": 3029,
     "preisLadeboden": 510,
     "preisInnenwandverkleidung": 610,
-    "preisMontageRegalLinks": 150,
-    "preisMontageRegalRechts": 150,
-    "preisMontageRegalBeidseitig": 240,
-    "preisMontageLadeboden": 150,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageRegalLinks": 289,
+    "preisMontageRegalRechts": 200,
+    "preisMontageRegalBeidseitig": 489,
+    "preisMontageLadeboden": 230,
+    "preisMontageInnenwandverkleidung": 270
   },
   {
     "hersteller": "citroen",
@@ -758,11 +758,11 @@
     "preisRegalBeidseitig": 2955,
     "preisLadeboden": 460,
     "preisInnenwandverkleidung": 560,
-    "preisMontageRegalLinks": 125,
-    "preisMontageRegalRechts": 125,
-    "preisMontageRegalBeidseitig": 210,
-    "preisMontageLadeboden": 125,
-    "preisMontageInnenwandverkleidung": 225
+    "preisMontageRegalLinks": 260,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 510,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "citroen",
@@ -775,11 +775,11 @@
     "preisRegalBeidseitig": 3143,
     "preisLadeboden": 490,
     "preisInnenwandverkleidung": 590,
-    "preisMontageRegalLinks": 145,
-    "preisMontageRegalRechts": 145,
-    "preisMontageRegalBeidseitig": 235,
-    "preisMontageLadeboden": 145,
-    "preisMontageInnenwandverkleidung": 245
+    "preisMontageRegalLinks": 270,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 520,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "citroen",
@@ -792,11 +792,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 420,
     "preisInnenwandverkleidung": 520,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "citroen",
@@ -809,11 +809,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 440,
     "preisInnenwandverkleidung": 540,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "toyota",
@@ -826,11 +826,11 @@
     "preisRegalBeidseitig": 2489,
     "preisLadeboden": 450,
     "preisInnenwandverkleidung": 550,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "toyota",
@@ -843,11 +843,11 @@
     "preisRegalBeidseitig": 2790,
     "preisLadeboden": 480,
     "preisInnenwandverkleidung": 580,
-    "preisMontageRegalLinks": 140,
-    "preisMontageRegalRechts": 140,
-    "preisMontageRegalBeidseitig": 230,
-    "preisMontageLadeboden": 140,
-    "preisMontageInnenwandverkleidung": 240
+    "preisMontageRegalLinks": 256,
+    "preisMontageRegalRechts": 160,
+    "preisMontageRegalBeidseitig": 416,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 254
   },
   {
     "hersteller": "toyota",
@@ -860,11 +860,11 @@
     "preisRegalBeidseitig": 3029,
     "preisLadeboden": 510,
     "preisInnenwandverkleidung": 610,
-    "preisMontageRegalLinks": 150,
-    "preisMontageRegalRechts": 150,
-    "preisMontageRegalBeidseitig": 240,
-    "preisMontageLadeboden": 150,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageRegalLinks": 289,
+    "preisMontageRegalRechts": 200,
+    "preisMontageRegalBeidseitig": 489,
+    "preisMontageLadeboden": 230,
+    "preisMontageInnenwandverkleidung": 270
   },
   {
     "hersteller": "toyota",
@@ -877,11 +877,11 @@
     "preisRegalBeidseitig": 2955,
     "preisLadeboden": 460,
     "preisInnenwandverkleidung": 560,
-    "preisMontageRegalLinks": 125,
-    "preisMontageRegalRechts": 125,
-    "preisMontageRegalBeidseitig": 210,
-    "preisMontageLadeboden": 125,
-    "preisMontageInnenwandverkleidung": 225
+    "preisMontageRegalLinks": 260,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 510,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "toyota",
@@ -894,11 +894,11 @@
     "preisRegalBeidseitig": 3143,
     "preisLadeboden": 490,
     "preisInnenwandverkleidung": 590,
-    "preisMontageRegalLinks": 145,
-    "preisMontageRegalRechts": 145,
-    "preisMontageRegalBeidseitig": 235,
-    "preisMontageLadeboden": 145,
-    "preisMontageInnenwandverkleidung": 245
+    "preisMontageRegalLinks": 270,
+    "preisMontageRegalRechts": 250,
+    "preisMontageRegalBeidseitig": 520,
+    "preisMontageLadeboden": 204,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "toyota",
@@ -911,11 +911,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 420,
     "preisInnenwandverkleidung": 520,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "toyota",
@@ -928,11 +928,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 440,
     "preisInnenwandverkleidung": 540,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "mercedes_benz",
@@ -945,11 +945,11 @@
     "preisRegalBeidseitig": 0,
     "preisLadeboden": 420,
     "preisInnenwandverkleidung": 520,
-    "preisMontageRegalLinks": 110,
-    "preisMontageRegalRechts": 110,
-    "preisMontageRegalBeidseitig": 190,
-    "preisMontageLadeboden": 110,
-    "preisMontageInnenwandverkleidung": 210
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "mercedes_benz",
@@ -962,11 +962,11 @@
     "preisRegalBeidseitig": 2700,
     "preisLadeboden": 440,
     "preisInnenwandverkleidung": 540,
-    "preisMontageRegalLinks": 120,
-    "preisMontageRegalRechts": 120,
-    "preisMontageRegalBeidseitig": 200,
-    "preisMontageLadeboden": 120,
-    "preisMontageInnenwandverkleidung": 220
+    "preisMontageRegalLinks": 291,
+    "preisMontageRegalRechts": 0,
+    "preisMontageRegalBeidseitig": 0,
+    "preisMontageLadeboden": 200,
+    "preisMontageInnenwandverkleidung": 250
   },
   {
     "hersteller": "mercedes_benz",
