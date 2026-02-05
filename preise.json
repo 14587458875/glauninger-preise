@@ -26,12 +26,12 @@
     "preisRegalRechts": 1183,
     "preisRegalBeidseitig": 2838,
     "preisLadeboden": 420,
-    "preisInnenwandverkleidung": 335,
+    "preisInnenwandverkleidung": 330,
     "preisMontageRegalLinks": 268,
     "preisMontageRegalRechts": 180,
     "preisMontageRegalBeidseitig": 448,
-    "preisMontageLadeboden": 204,
-    "preisMontageInnenwandverkleidung": 254
+    "preisMontageLadeboden": 150,
+    "preisMontageInnenwandverkleidung": 200
   },
   {
     "hersteller": "ford",
@@ -47,8 +47,8 @@
     "preisMontageRegalLinks": 291,
     "preisMontageRegalRechts": 0,
     "preisMontageRegalBeidseitig": 0,
-    "preisMontageLadeboden": 204,
-    "preisMontageInnenwandverkleidung": 254
+    "preisMontageLadeboden": 150,
+    "preisMontageInnenwandverkleidung": 200
   },
   {
     "hersteller": "ford",
@@ -64,8 +64,8 @@
     "preisMontageRegalLinks": 291,
     "preisMontageRegalRechts": 0,
     "preisMontageRegalBeidseitig": 0,
-    "preisMontageLadeboden": 200,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageLadeboden": 150,
+    "preisMontageInnenwandverkleidung": 200
   },
   {
     "hersteller": "ford",
@@ -81,8 +81,8 @@
     "preisMontageRegalLinks": 291,
     "preisMontageRegalRechts": 0,
     "preisMontageRegalBeidseitig": 0,
-    "preisMontageLadeboden": 200,
-    "preisMontageInnenwandverkleidung": 250
+    "preisMontageLadeboden": 150,
+    "preisMontageInnenwandverkleidung": 200
   },
   {
     "hersteller": "volkswagen",
